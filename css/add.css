@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(18, 16, 14);
+}
+div{
+    background-color:orange;
+    height:600px;
+    width: 400px;
+    margin: 100px;
+    margin-right: 300px;
+    margin-left: 400px;
+
+    
+}
+button{
+   background-color: whitesmoke;
+}
+.image{
+    height: 400px;
+    width: 400px;
+}
+.li{
+    color:black;
+}

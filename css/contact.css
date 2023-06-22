@@ -1,0 +1,21 @@
+.icon{
+    font-size:30px;
+    margin-right: 10px;
+
+}
+.input{
+    width:400px;
+    height: 20px;
+    margin: 20px;
+    margin-left: 600px;
+
+}
+.textarea{
+    height:150px;
+    width: 300px;
+    margin-left: 600px;
+}
+.button{
+    margin-left: 600px;
+    background-color: red;
+}

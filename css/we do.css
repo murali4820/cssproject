@@ -1,0 +1,20 @@
+div{
+    background-color:teal ;
+    height: 250px;
+    width:250px;
+    text-align: center;
+    
+}
+img{
+    height:100px;
+    width:100px;
+}
+section{
+    margin-left:350px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color:thistle;
+}
